@@ -1,4 +1,4 @@
-# GameAnalytics Tech chalenge 😉
+# Tech chalenge 😉
 In this exercise, I used plain javascript and no libraries or frameworks. 
 
 > I have used the Model-View-ViewModel (MVVM) is a structural design pattern that separates objects into three distinct groups. This way, my Controller looks much cleaner and easy to read. 
